@@ -20,16 +20,31 @@ h2 {
 
 p {
   margin: 5px 100px 5px 5px;
+  text-indent: 30px;
+  text-align: justify;
+  line-height: 110%;
+}
+.jobbra{
+  padding: 10px;
+  padding-right: 100px;
+  text-align: right;
 }
 
+.eletrajz{
+  font-size: 80%;
+  color: white;
+  padding: 10px;
+  background-color: rgb(111, 111, 111);
+}
 #tartalom {
+  max-width: 870px;
   background-image: url('dinamo.jpg');
   background-size: 125px 100px;
   background-repeat: repeat-y;
   background-position: right top;
   background-color: rgba(222, 222, 222);
-  margin-bottom: 20px;
-  padding: 40px;
+  padding: 120px;
+  margin: 40px auto 20px auto;
 }
 
 li {
