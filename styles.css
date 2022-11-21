@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(111, 111, 111);
+}
+
+#dinamokep {
+  float: left;
+  height: 200px;
+  margin-right: 20px;
+}
+
+h1 {
+  margin: 40px 0px 30px 180px;
+}
+
+h1,
+h2 {
+  font-variant: small-caps;
+  font-style: italic;
+}
+
+p {
+  margin: 5px 100px 5px 5px;
+}
+
+#tartalom {
+  background-image: url('dinamo.jpg');
+  background-size: 125px 100px;
+  background-repeat: repeat-y;
+  background-position: right top;
+  background-color: rgba(222, 222, 222);
+  margin-bottom: 20px;
+  padding: 40px;
+}
+
+li {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
